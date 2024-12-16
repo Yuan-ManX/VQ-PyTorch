@@ -1,2 +1,3 @@
-# VQ-PyTorch
+# Vector Quantization PyTorch
+
 PyTorch implementation of Vector Quantization.
