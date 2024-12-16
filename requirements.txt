@@ -1,1 +1,5 @@
-
+torch
+einx
+einops
+tqdm
+torchvision
